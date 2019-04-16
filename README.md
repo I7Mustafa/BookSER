@@ -1,6 +1,5 @@
 # BookSER 
 
-This app uses a google apis 
 To search for book names using google books apis
 
 # What I Learned.
